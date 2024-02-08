@@ -1,7 +1,7 @@
 # CURSO DE LOGICA COM PYTHON
 👨‍⚖️PYTHON É UMA LINGUAGEM DE PROGRAMAÇÃO.
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="FOTO.jpg" align="center" width="400"> <br>
 
 ## ATENÇÃO:
 - Este curso segue o mesmo conteúdo abordado na versão em Portugol. No entanto, durante o período em que participei (de 05/04/2022 até 25/04/2022), eu não tinha acesso a um computador. Por isso, adaptei o aprendizado utilizando apenas meu celular e meu caderno naquela época.
