@@ -54,4 +54,4 @@ Atualmente, o Python é uma das linguagens de programação mais populares do mu
 - [VEJA A DOCUMENTAÇÃO](https://docs.python.org/3/)
 - [VEJA A VERSÃO EM PORTUGOL](https://github.com/VILHALVA/CURSO-DE-PORTUGOL)
 - [FAÇA O CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:PYTHON)
